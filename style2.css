@@ -1055,7 +1055,7 @@ footer .foot {
 @media only screen and (max-width: 426px) {
   .home {
     width: 450px;
-    margin-left: 0;
+    margin-left: -40px;
   }
   .page .btnb {
     width: 300px;
@@ -1093,12 +1093,12 @@ footer .foot {
     width: 160px;
     height: 100px;
     top: 928px;
-    left: 180px;
+    left: 175px;
   }
   .about {
     margin-top: 0px;
     width: 0px;
-    margin-left: 0;
+    margin-left: -10px;
   }
   .aboutimg {
     margin-top: 28px;
@@ -1134,5 +1134,11 @@ footer .foot {
   .card {
     left: 150px;
     width: 350px;
+  }
+  .testimonials .paragraph {
+    font-size: 8px;
+  }
+  .testimonials .check {
+    margin-top: 150px;
   }
 }

@@ -1120,7 +1120,7 @@ footer .foot {
   }
   .res_art .txt {
     padding: 0 20px;
-    margin-left: -60px;
+    margin-left: -80px;
   }
   .res_art1 .txt1 {
     padding: 0 0px;
@@ -1130,7 +1130,7 @@ footer .foot {
   .res_art1 img {
     height: 200px;
     width: 200px;
-    margin-left: -40px;
+    margin-left: -60px;
   }
   .res_art1 {
     padding: 20px 30px;
@@ -1140,9 +1140,26 @@ footer .foot {
     width: 350px;
   }
   .testimonials .paragraph {
-    font-size: 8px;
+    font-size: 7px;
   }
   .testimonials .check {
     margin-top: 150px;
   }
+  .testimonials .txt {
+    left: 190px;
+  }
+  .infos{
+    padding-left: 0;
+  }
+  .check #img1{
+    margin-top: 25px;
+    left: 155px;
+  }
+  .check #img2{
+    left: 155px;
+  }
+  .check #img3{
+    left: 155px;
+  }
 }
+

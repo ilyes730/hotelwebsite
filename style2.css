@@ -1055,6 +1055,7 @@ footer .foot {
 @media only screen and (max-width: 426px) {
   .home {
     width: 450px;
+    margin-left: 0;
   }
   .page .btnb {
     width: 300px;
@@ -1097,6 +1098,7 @@ footer .foot {
   .about {
     margin-top: 0px;
     width: 0px;
+    margin-left: 0;
   }
   .aboutimg {
     margin-top: 28px;
@@ -1128,5 +1130,9 @@ footer .foot {
   }
   .res_art1 {
     padding: 20px 30px;
+  }
+  .card {
+    left: 150px;
+    width: 350px;
   }
 }

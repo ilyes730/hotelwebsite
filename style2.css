@@ -1033,22 +1033,30 @@ footer .foot {
   .btnnn {
     top: 55px;
   }
-  
-  .sections{
+
+  .sections {
     gap: 0px;
   }
-  .sec2{
-  margin-left: 30px;
+  .sec2 {
+    margin-left: 30px;
   }
-  .social{
+  .social {
     width: 150px;
   }
-  .sec3{
+  .sec3 {
     margin-left: -250px;
   }
-  
-  .sec4{
+
+  .sec4 {
     margin-left: -250px;
   }
-  
+}
+
+@media only screen and (max-width: 426px) {
+  .home {
+    width: 800px;
+  }
+  .page .btnb a {
+    padding: 10px;
+  }
 }

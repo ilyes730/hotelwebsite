@@ -1091,7 +1091,7 @@ footer .foot {
     float: right;
     width: 160px;
     height: 100px;
-    top: 900px;
+    top: 920px;
     left: 180px;
   }
   .about {
@@ -1107,8 +1107,26 @@ footer .foot {
   }
   .res_art img {
     height: 200px;
+    width: 200px;
   }
   .res_art {
+    padding: 20px 30px;
+  }
+  .res_art .txt {
+    padding: 0 20px;
+    margin-left: -60px;
+  }
+  .res_art1 .txt1 {
+    padding: 0 0px;
+    margin-left: -10px;
+    width: 180px;
+  }
+  .res_art1 img {
+    height: 200px;
+    width: 200px;
+    margin-left: -40px;
+  }
+  .res_art1 {
     padding: 20px 30px;
   }
 }

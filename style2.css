@@ -1057,6 +1057,9 @@ footer .foot {
     width: 450px;
     margin-left: -40px;
   }
+  .page {
+    padding-left: 30px;
+  }
   .page .btnb {
     width: 300px;
   }
@@ -1110,6 +1113,7 @@ footer .foot {
   .res_art img {
     height: 200px;
     width: 200px;
+    margin-left: -20px;
   }
   .res_art {
     padding: 20px 30px;
@@ -1120,7 +1124,7 @@ footer .foot {
   }
   .res_art1 .txt1 {
     padding: 0 0px;
-    margin-left: -10px;
+    margin-left: -20px;
     width: 180px;
   }
   .res_art1 img {
@@ -1132,7 +1136,7 @@ footer .foot {
     padding: 20px 30px;
   }
   .card {
-    left: 150px;
+    left: 120px;
     width: 350px;
   }
   .testimonials .paragraph {

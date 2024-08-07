@@ -1054,7 +1054,7 @@ footer .foot {
 
 @media only screen and (max-width: 426px) {
   .home {
-    width: 455px;
+    width: 800px;
   }
   .page .btnb {
     width: 300px;
@@ -1064,9 +1064,9 @@ footer .foot {
   }
 
   .aboutimg .left1 {
-    float: right;
     width: 200px;
     height: 250px;
+    margin-left: 150px;
   }
   .about h6 {
     font-size: 8px;
@@ -1092,15 +1092,23 @@ footer .foot {
     width: 160px;
     height: 180px;
     top: 737px;
-    left: 180px;
+    left: 500px;
   }
   .about {
     margin-top: -20px;
+    width: 0px;
   }
   .aboutimg {
     margin-top: 28px;
+    width: 50px;
   }
   .btn-room {
     margin-left: 270px;
+  }
+  .res_art img {
+    height: 200px;
+  }
+  .res_art {
+    padding: 20px 30px;
   }
 }

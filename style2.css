@@ -1054,7 +1054,7 @@ footer .foot {
 
 @media only screen and (max-width: 426px) {
   .home {
-    width: 850px;
+    width: 450px;
   }
   .page .btnb {
     width: 300px;
@@ -1091,7 +1091,7 @@ footer .foot {
     float: right;
     width: 160px;
     height: 180px;
-    top: 735px;
+    top: 775px;
     left: 180px;
   }
   .about {

@@ -1054,12 +1054,12 @@ footer .foot {
 
 @media only screen and (max-width: 426px) {
   .home {
-    width: 800px;
+    width: 450px;
   }
   .page .btnb {
     width: 300px;
   }
   .page .btnb a {
-    padding: 11px 5px;
+    padding: 10px 20px;
   }
 }

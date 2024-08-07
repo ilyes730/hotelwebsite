@@ -1054,7 +1054,7 @@ footer .foot {
 
 @media only screen and (max-width: 426px) {
   .home {
-    width: 450px;
+    width: 850px;
   }
   .page .btnb {
     width: 300px;
@@ -1079,7 +1079,7 @@ footer .foot {
     width: 150px;
     margin-left: -64px;
   }
-  .about h4{
+  .about h4 {
     font-size: 10px;
     margin-left: -64px;
     overflow: hidden;
@@ -1094,11 +1094,10 @@ footer .foot {
     top: 735px;
     left: 180px;
   }
-  .about{
-   margin-top: -20px;
+  .about {
+    margin-top: -20px;
   }
-  .aboutimg{
+  .aboutimg {
     margin-top: 30px;
   }
-
 }

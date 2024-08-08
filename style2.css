@@ -1119,6 +1119,7 @@ footer .foot {
     padding: 20px 30px;
   }
   .res_art .txt {
+    margin-top: 40px;
     padding: 0 20px;
     margin-left: -70px;
   }
@@ -1126,12 +1127,14 @@ footer .foot {
     font-size: 11px;
   }
   .res_art1 .txt1 {
+   margin-top: 40px;
     padding: 0 0px;
     margin-left: -20px;
     width: 180px;
   }
   .res_art1 .txt1 h4{
     font-size: 11px;
+    width:180px ;
   }
   .res_art1 img {
     height: 200px;

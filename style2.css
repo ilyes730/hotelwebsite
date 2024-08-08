@@ -1137,15 +1137,16 @@ footer .foot {
     width: 180px;
   }
   .res_art1 img {
+    margin-top: 40px;
     height: 180px;
     width: 180px;
-    margin-left: -60px;
+    margin-left: -50px;
   }
   .res_art1 {
     padding: 20px 30px;
   }
   .card {
-    left: 120px;
+    left: 100px;
     width: 350px;
   }
   .testimonials .paragraph {
@@ -1155,7 +1156,7 @@ footer .foot {
     margin-top: 150px;
   }
   .testimonials .txt {
-    left: 190px;
+    left: 170px;
   }
   .infos {
     padding-left: 0;
@@ -1169,5 +1170,8 @@ footer .foot {
   }
   .check #img3 {
     left: 155px;
+  }
+  .infos .texte{
+    padding: 50px 20px;
   }
 }

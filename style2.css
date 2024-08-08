@@ -1123,23 +1123,23 @@ footer .foot {
     padding: 0 20px;
     margin-left: -70px;
   }
-  .res_art .txt h4{
+  .res_art .txt h4 {
     font-size: 11px;
   }
   .res_art1 .txt1 {
-   margin-top: 40px;
+    margin-top: 40px;
     padding: 0 0px;
     margin-left: -15px;
     width: 180px;
   }
-  .res_art1 .txt1 h4{
+  .res_art1 .txt1 h4 {
     font-size: 11px;
-    width:180px ;
+    width: 180px;
   }
   .res_art1 img {
     height: 180px;
     width: 180px;
-    margin-left: -40px;
+    margin-left: -60px;
   }
   .res_art1 {
     padding: 20px 30px;
@@ -1157,18 +1157,17 @@ footer .foot {
   .testimonials .txt {
     left: 190px;
   }
-  .infos{
+  .infos {
     padding-left: 0;
   }
-  .check #img1{
+  .check #img1 {
     margin-top: 25px;
     left: 155px;
   }
-  .check #img2{
+  .check #img2 {
     left: 155px;
   }
-  .check #img3{
+  .check #img3 {
     left: 155px;
   }
 }
-

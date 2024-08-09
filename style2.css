@@ -1195,12 +1195,12 @@ footer .foot {
     background: #fff;
     border-radius: 10px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
-    width: 360px;
+    width: 340px;
     height: 300px;
   }
 
   .calendar {
-    margin-left: -385px;
+    margin-left: -390px;
   }
 
   .calendar ul {
@@ -1226,7 +1226,8 @@ footer .foot {
   .sections {
     display: flex;
     gap: 0;
-    margin-left: -30px;
+    margin-left: -50px;
+    margin-top: -100px;
   }
   .sections h5 {
     font-size: 10px;
@@ -1238,13 +1239,13 @@ footer .foot {
     width: 85px;
   }
   .sec2 {
-    margin-left: -50px;
+    margin-left: -35px;
     margin-top: 50px;
   }
 
   .sec4 {
     margin-top: 120px;
-    margin-left: -380px;
+    margin-left: -370px;
   }
   .sec4 h5 {
     width: 70px;

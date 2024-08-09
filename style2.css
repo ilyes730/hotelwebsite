@@ -1186,7 +1186,7 @@ footer .foot {
   }
 
   .infos .text {
-    margin-top: 400px;
+    margin-top: 330px;
     padding: 50px 20px;
   }
 
@@ -1200,11 +1200,10 @@ footer .foot {
   }
 
   .calendar {
-    margin-left: -355px;
+    margin-left: -375px;
   }
 
   .calendar ul {
-    margin-left: -30px;
     width: 360px;
     height: 30px;
     list-style: none;
@@ -1221,7 +1220,54 @@ footer .foot {
     width: 50px;
   }
   .btnnn {
-    margin-top: 480px;
+    margin-top: 410px;
+    margin-left: 20px;
+  }
+  .sections {
+    display: flex;
+    gap: 0;
     margin-left: -30px;
+  }
+  .sections h5 {
+    font-size: 10px;
+  }
+  .sec4 {
+    width: 200px;
+  }
+  .sec1 h6 {
+    width: 85px;
+  }
+  .sec2 {
+    margin-left: -38px;
+    margin-top: 50px;
+  }
+
+  .sec4 {
+    margin-top: 120px;
+    margin-left: -380px;
+  }
+  .sec4 h5 {
+    width: 70px;
+    margin-left: 100px;
+  }
+  /*
+.sec1{
+  width: 100px;
+  margin-top: -20px;
+}
+.sec2{
+  margin-left: 35px;
+}
+
+.sec4{
+  margin-left: -320px;
+  width: 500px;
+}*/
+
+  .email {
+    width: 150px;
+  }
+  .sbc {
+    margin-left: 0px;
   }
 }

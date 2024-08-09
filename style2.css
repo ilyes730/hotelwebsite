@@ -1172,12 +1172,11 @@ footer .foot {
     left: 175px;
   }
 
-   #card1 .paragraph {
+  #card1 .paragraph {
     margin-left: 35px;
     margin-top: 10px;
-  
   }
-   #card2 .paragraph {
+  #card2 .paragraph {
     margin-left: 35px;
     margin-top: 28px;
   }
@@ -1186,46 +1185,43 @@ footer .foot {
     margin-left: 35px;
   }
 
-  .infos .text{
+  .infos .text {
     margin-top: 400px;
     padding: 50px 20px;
   }
 
-  
-.calendar {
-  padding: 10px;
-  background: #fff;
-  border-radius: 10px;
-  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
-  width: 360px;
-  height: 300px;
-}
+  .calendar {
+    padding: 10px;
+    background: #fff;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    width: 360px;
+    height: 300px;
+  }
 
+  .calendar {
+    margin-left: -375px;
+  }
 
-.calendar {
-  margin-left: -395px;
-}
+  .calendar ul {
+    margin-left: -50px;
+    width: 360px;
+    height: 30px;
+    list-style: none;
+    display: flex;
+    flex-wrap: wrap;
+    text-align: center;
+  }
 
-
-.calendar ul {
-  margin-left: -50px;
-  width: 360px;
-  height: 30px;
-  list-style: none;
-  display: flex;
-  flex-wrap: wrap;
-  text-align: center;
-}
-
-.calendar ul li {
-  width: calc(100% / 7);
-  margin-top: 25px;
-  position: relative;
-  z-index: 2;
-  width: 50px;
-}
-.btnnn{
-  margin-top: 460px;
-  margin-left: -50px;
-}
+  .calendar ul li {
+    width: calc(100% / 7);
+    margin-top: 25px;
+    position: relative;
+    z-index: 2;
+    width: 50px;
+  }
+  .btnnn {
+    margin-top: 480px;
+    margin-left: -30px;
+  }
 }

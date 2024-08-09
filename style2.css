@@ -1200,11 +1200,11 @@ footer .foot {
   }
 
   .calendar {
-    margin-left: -375px;
+    margin-left: -355px;
   }
 
   .calendar ul {
-    margin-left: -50px;
+    margin-left: -30px;
     width: 360px;
     height: 30px;
     list-style: none;

@@ -1174,14 +1174,14 @@ footer .foot {
 
   #card1 .paragraph {
     margin-left: 35px;
-    margin-top: 10px;
+    margin-top: 40px;
   }
   #card2 .paragraph {
-    margin-left: 35px;
+    margin-left: 15px;
     margin-top: 28px;
   }
   #card3 .paragraph {
-    margin-top: 28px;
+    margin-top: 15px;
     margin-left: 35px;
   }
 
@@ -1200,7 +1200,7 @@ footer .foot {
   }
 
   .calendar {
-    margin-left: -375px;
+    margin-left: -385px;
   }
 
   .calendar ul {
@@ -1221,7 +1221,7 @@ footer .foot {
   }
   .btnnn {
     margin-top: 410px;
-    margin-left: 20px;
+    margin-left: 0px;
   }
   .sections {
     display: flex;
@@ -1238,7 +1238,7 @@ footer .foot {
     width: 85px;
   }
   .sec2 {
-    margin-left: -38px;
+    margin-left: -50px;
     margin-top: 50px;
   }
 

@@ -1175,14 +1175,17 @@ footer .foot {
   #card1 .paragraph {
     margin-left: 35px;
     margin-top: 22px;
+
   }
   #card2 .paragraph {
     margin-left: 35px;
     margin-top: 28px;
+    width: 180px;
   }
   #card3 .paragraph {
     margin-top: 25px;
     margin-left: 35px;
+    width: 180px;
   }
   .infos {
     height: 900px;
@@ -1203,7 +1206,7 @@ footer .foot {
   }
 
   .calendar {
-    margin-left: -370px;
+    margin-left: -355px;
   }
 
   .calendar ul {
@@ -1223,8 +1226,8 @@ footer .foot {
     width: 50px;
   }
   .btnnn {
-    margin-top: 410px;
-    margin-left: 0px;
+    margin-top: 420px;
+    margin-left: -10px;
   }
   .sections {
     display: flex;

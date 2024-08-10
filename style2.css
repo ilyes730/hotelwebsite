@@ -1174,23 +1174,26 @@ footer .foot {
 
   #card1 .paragraph {
     margin-left: 35px;
-    margin-top: 40px;
+    margin-top: 22px;
   }
   #card2 .paragraph {
-    margin-left: 15px;
+    margin-left: 35px;
     margin-top: 28px;
   }
   #card3 .paragraph {
-    margin-top: 15px;
+    margin-top: 25px;
     margin-left: 35px;
   }
-
+  .infos {
+    height: 900px;
+  }
   .infos .text {
-    margin-top: 330px;
+    margin-top: 370px;
     padding: 50px 20px;
   }
 
   .calendar {
+    margin-top: 30px;
     padding: 10px;
     background: #fff;
     border-radius: 10px;
@@ -1200,7 +1203,7 @@ footer .foot {
   }
 
   .calendar {
-    margin-left: -390px;
+    margin-left: -370px;
   }
 
   .calendar ul {
@@ -1245,7 +1248,7 @@ footer .foot {
 
   .sec4 {
     margin-top: 120px;
-    margin-left: -370px;
+    margin-left: -390px;
   }
   .sec4 h5 {
     width: 70px;

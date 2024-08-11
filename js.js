@@ -21,7 +21,7 @@ menu.addEventListener('click',function(){
 
 closes.addEventListener('click',function(){
     list.classList.toggle('show')
-    page.classList.add('page')
+    page.style  = 'display:block'
 })
 
 

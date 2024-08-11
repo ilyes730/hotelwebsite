@@ -16,7 +16,7 @@ var card3 = document.getElementById("card3")
 
 menu.addEventListener('click',function(){
     list.classList.toggle('show')
-    page.classList.remove('page')
+    page.style  = 'display:none'
 })
 
 closes.addEventListener('click',function(){

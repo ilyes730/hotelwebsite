@@ -1057,6 +1057,9 @@ footer .foot {
 }
 
 @media only screen and (max-width: 426px) {
+  html{
+    width: 420px;
+  }
   .logo img {
     margin-left: -40px;
   }

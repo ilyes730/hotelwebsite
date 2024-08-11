@@ -1167,7 +1167,7 @@ footer .foot {
     width: 200px;
   }
   .infos {
-    padding-left: 0;
+    padding: 0;
   }
   .check #img1 {
     margin-top: 25px;
@@ -1293,5 +1293,11 @@ footer .foot {
   }
   .texte1 {
     width: 300px;
+  }
+  .show ul {
+    padding-left: 420px;
+  }
+  body {
+    width: 420px;
   }
 }

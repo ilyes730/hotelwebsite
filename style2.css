@@ -1057,8 +1057,8 @@ footer .foot {
 }
 
 @media only screen and (max-width: 426px) {
-  html{
-    width: 420px;
+  html {
+    width: 422px;
   }
   .logo img {
     margin-left: -40px;
@@ -1257,40 +1257,40 @@ footer .foot {
     margin-top: -100px;
     width: 0px;
   }
-  .sections h5{
+  .sections h5 {
     font-size: 10px;
     width: 70px;
   }
-.sec1{
-  margin-top: -80px;
-  width: 90px;
-  height: 150px;
-}
+  .sec1 {
+    margin-top: 0px;
+    width: 90px;
+    height: 150px;
+  }
   .sec1 h6 {
     width: 85px;
   }
-  .sec1 img{
+  .sec1 img {
     width: 15px;
   }
-  .sec1 #sp{
+  .sec1 #sp {
     width: 150px;
   }
-.sec1 .social{
-  width: 150px;
-}
-.sec2{
-  margin-top: 0px;
-  margin-left: 60px;
-}
-.sec3{
-  margin-top: -28px;
-  margin-left: 30px;
-}
-.sec4{
-  margin-top: 100px;
-  margin-left: -50px;
-}
-  .email {  
+  .sec1 .social {
+    width: 150px;
+  }
+  .sec2 {
+    margin-top: 0px;
+    margin-left: 60px;
+  }
+  .sec3 {
+    margin-top: -28px;
+    margin-left: 30px;
+  }
+  .sec4 {
+    margin-top: 100px;
+    margin-left: -50px;
+  }
+  .email {
     width: 150px;
     margin-left: -30px;
   }
@@ -1304,9 +1304,9 @@ footer .foot {
     padding-left: 500px;
   }
   body {
-    width: 420px;
+    width: 422px;
   }
-  .sec4 .One{
+  .sec4 .One {
     margin-left: 70px;
   }
 }

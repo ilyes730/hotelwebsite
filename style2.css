@@ -1151,6 +1151,9 @@ footer .foot {
     left: 120px;
     width: 350px;
   }
+  .card-image img {
+    margin-right: 0;
+  }
   .testimonials h2,
   .testimonials h6 {
     width: 280px;

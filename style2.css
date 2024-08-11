@@ -1058,7 +1058,7 @@ footer .foot {
 
 @media only screen and (max-width: 426px) {
   html {
-    width: 422px;
+    width: 426px;
   }
   .logo img {
     margin-left: -40px;
@@ -1304,7 +1304,7 @@ footer .foot {
     padding-left: 500px;
   }
   body {
-    width: 422px;
+    width: 426px;
   }
   .sec4 .One {
     margin-left: 70px;

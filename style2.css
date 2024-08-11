@@ -1057,6 +1057,9 @@ footer .foot {
 }
 
 @media only screen and (max-width: 426px) {
+  .logo img {
+    margin-left: -50px;
+  }
   .page {
     padding-left: 30px;
   }
@@ -1065,6 +1068,9 @@ footer .foot {
   }
   .page .btnb a {
     padding: 10px 20px;
+  }
+  .first_section img {
+    width: 100%;
   }
 
   .aboutimg .left1 {
@@ -1166,6 +1172,9 @@ footer .foot {
     left: 180px;
     width: 200px;
   }
+  .testimonials img {
+    width: 420px;
+  }
   .infos {
     padding: 0;
   }
@@ -1214,7 +1223,7 @@ footer .foot {
   }
 
   .calendar {
-    margin-left: -385px;
+    margin-left: -370px;
   }
 
   .calendar ul {
@@ -1234,7 +1243,7 @@ footer .foot {
     width: 50px;
   }
   .btnnn {
-    margin-top: 420px;
+    margin-top: 405px;
     margin-left: -10px;
   }
   .sections {

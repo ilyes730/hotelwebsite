@@ -1058,7 +1058,7 @@ footer .foot {
 
 @media only screen and (max-width: 426px) {
   .logo img {
-    margin-left: -50px;
+    margin-left: -40px;
   }
   .page {
     padding-left: 30px;
@@ -1122,7 +1122,7 @@ footer .foot {
     margin-left: -15px;
   }
   .res_art {
-    padding: 20px 30px;
+    padding: 20px 50px;
   }
   .res_art .txt {
     margin-top: 40px;
@@ -1149,7 +1149,7 @@ footer .foot {
     margin-left: -55px;
   }
   .res_art1 {
-    padding: 20px 30px;
+    padding: 20px 50px;
   }
   .card {
     left: 120px;
@@ -1248,52 +1248,46 @@ footer .foot {
   }
   .sections {
     display: flex;
+    padding: 10px 20px;
     gap: 0;
     margin-left: -50px;
     margin-top: -100px;
     width: 0px;
   }
-  .sections h5 {
+  .sections h5{
     font-size: 10px;
+    width: 70px;
   }
-  .sec4 {
-    width: 200px;
-  }
+.sec1{
+  margin-top: -80px;
+  width: 90px;
+  height: 150px;
+}
   .sec1 h6 {
     width: 85px;
   }
-  .sec2 {
-    margin-left: -35px;
-    margin-top: 50px;
-    width: 0;
+  .sec1 img{
+    width: 15px;
   }
-  .sec3 {
-    width: 0;
+  .sec1 #sp{
+    width: 150px;
   }
-
-  .sec4 {
-    margin-top: 120px;
-    margin-left: -390px;
-  }
-  .sec4 h5 {
-    width: 70px;
-    margin-left: 90px;
-  }
-  /*
-.sec1{
-  width: 100px;
-  margin-top: -20px;
+.sec1 .social{
+  width: 150px;
 }
 .sec2{
-  margin-left: 35px;
+  margin-top: 0px;
+  margin-left: 60px;
 }
-
+.sec3{
+  margin-top: -28px;
+  margin-left: 30px;
+}
 .sec4{
-  margin-left: -320px;
-  width: 500px;
-}*/
-
-  .email {
+  margin-top: 100px;
+  margin-left: -50px;
+}
+  .email {  
     width: 150px;
     margin-left: -30px;
   }
@@ -1304,9 +1298,12 @@ footer .foot {
     width: 300px;
   }
   .show ul {
-    padding-left: 420px;
+    padding-left: 500px;
   }
   body {
     width: 420px;
+  }
+  .sec4 .One{
+    margin-left: 70px;
   }
 }

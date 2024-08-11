@@ -412,20 +412,23 @@ marquee {
   display: flex;
   flex-direction: row;
   gap: 60px;
-  padding: 30px 100px;
+  padding: 30px 30px;
 }
 
 .res_art .txt {
   display: flex;
   flex-direction: column;
+  margin-left: 20px;
+  width: 280px;
   gap: 5px;
   padding: 20px 30px;
 }
 
 .res_art img {
-  width: 450px;
+  width: 380px;
   height: 250px;
   border-radius: 15px;
+  margin-left: 60px;
 }
 
 .res_art h6 {
@@ -456,20 +459,23 @@ marquee {
   display: flex;
   flex-direction: row;
   gap: 60px;
-  padding: 30px 100px;
+  padding: 30px 30px;
 }
 
 .res_art1 .txt1 {
   display: flex;
   flex-direction: column;
+  width: 220px;
   gap: 5px;
   padding: 20px 30px;
+  margin-left: 100px;
 }
 
 .res_art1 img {
-  width: 450px;
+  width: 380px;
   height: 250px;
   border-radius: 15px;
+  margin-left: 90px;
 }
 
 .res_art1 h6 {

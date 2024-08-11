@@ -14,7 +14,6 @@
   background-position: center;
   position: relative;
   overflow: hidden;
-  width: 465pxs;
 }
 
 .navbar {
@@ -1060,10 +1059,6 @@ footer .foot {
 }
 
 @media only screen and (max-width: 426px) {
-  .home {
-    width: 450px;
-    margin-left: -40px;
-  }
   .page {
     padding-left: 30px;
   }
